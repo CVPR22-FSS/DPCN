@@ -70,5 +70,5 @@ dependencies:
     - tqdm==4.62.3
     - urllib3==1.26.7
     - yapf==0.31.0
-prefix: /home/jieliu/anaconda3/envs/fewseg
+prefix: /home/anaconda3/envs/fewseg
 
