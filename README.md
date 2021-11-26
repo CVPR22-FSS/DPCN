@@ -1,4 +1,4 @@
-# Dynamic Convolutoin Network for Few-shot Semantic Segmentation
+# Dynamic Convolutoin Network for Few-shot Semantic Segmentation (DPCN)
 This is the implementation of the paper **Dynamic Convoulution Network for Few-shot Semantic Segmentation (DPCN)**.
 
 The code will be released soon ......
